@@ -28,7 +28,7 @@
 
 ### 📁 Projets en vedette
 
-- 🌐 [**Blablabook-Back**](https://github.com/WilliamDodart/Blablabook-back) – API Express/Sequelize/TS pour gérer ses livres
-- 🔖 [**Blablabook-Front**](https://github.com/ton-pseudo/ma-bibliotheque) – SPA React de gestion de livres
+- 🌐 [**Blablabook-Back**](https://github.com/WilliamDodart/Blablabook-back/tree/develop) – API Express/Sequelize/TS pour gérer ses livres
+- 🔖 [**Blablabook-Front**](https://github.com/WilliamDodart/Blablabook-front/tree/develop) – SPA React de gestion de livres
 
 
