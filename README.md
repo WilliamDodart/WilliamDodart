@@ -35,7 +35,3 @@
 - 🔖 [**Blablabook-Front**](https://github.com/ton-pseudo/ma-bibliotheque) – SPA React de gestion de livres
 
 
----
-
-![Mes stats GitHub](https://github-readme-stats.vercel.app/api?username=WilliamDodart&show_icons=true&theme=tokyonight)
-![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamDodart&layout=compact&theme=tokyonight)
